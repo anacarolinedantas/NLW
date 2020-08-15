@@ -74,8 +74,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-<<<<<<< HEAD
 Adaptação do README.md de @grioos
-=======
-Adaptação do README.md de @grioos
->>>>>>> 939046e791bb7665cc8f6ef099bd8e7ede11e020
+
