@@ -9,7 +9,7 @@
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes-fullpage.JPG" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes-fullpage.jpg" width="100%">
 </p>
 
 ###  Página de listagem dos professores
