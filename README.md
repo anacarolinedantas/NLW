@@ -39,10 +39,10 @@ Além disto ter um editor para trabalhar com o código. Indicação: [VSCode](ht
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grioos/proffy-discovery
+$ git clone https://github.com/anacarolinedantas/next-level-week-2-rocketseat
 
 # Acesse a pasta do projeto no seu vscode
-$ cd proffy-discovery
+$ cd next-level-week-2-rocketseat
 
 # Instale as dependências
 $ npm install
@@ -75,7 +75,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 📝 Licença
-Este projeto esta sobe a licença **[MIT](https://github.com/grioos/proffy-discovery/blob/master/LICENSE.md)**.
+Este projeto esta sobe a licença MIT.
 
 Adaptação do README.md de @grioos
 
