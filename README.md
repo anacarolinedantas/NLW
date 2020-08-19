@@ -74,5 +74,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+## 📝 Licença
+Este projeto esta sobe a licença **[MIT](https://github.com/grioos/proffy-discovery/blob/master/LICENSE.md)**.
+
 Adaptação do README.md de @grioos
 
